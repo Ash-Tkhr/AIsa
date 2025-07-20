@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AIsa - 資産管理システム
 
 Vue.js + Spring Boot + Python Flask + PostgreSQL を使用した資産管理システムです。
@@ -170,3 +171,6 @@ python app.py
 ## ライセンス
 
 このプロジェクトは MIT ライセンスの下で公開されています。 
+=======
+# AIsa
+>>>>>>> e54504e60bddd3b94461645011a7c8b866158180
